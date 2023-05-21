@@ -2,6 +2,8 @@ package com.learning.day1;
 import java.util.Scanner;
 
 public class HelloWorld{
+// added new comment
+
 
     public static void main(String[] args) {
         int c = addFun(4,7);
